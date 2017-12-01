@@ -1,0 +1,14 @@
+#+title: Advent of Code 2017
+#+author: ShadowMitia
+
+* 
+
+My solutions for [[https://adventofcode.com/2017][Advent of Code 2017]].
+
+* Completed days
+
+** [[https://adventofcode.com/2017/day/1][Day 1]]
+
+[[file:day1/main.cpp][Part 1 and Part 2]]
+
+
