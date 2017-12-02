@@ -11,7 +11,7 @@ My solutions for [[https://adventofcode.com/2017][Advent of Code 2017]].
 
 [[file:day1/main.cpp][Part 1 and Part 2]]
 
-** Day 2
+** [[https://adventofcode.com/2017/day/2][Day 2]]
 
 [[file:day2/main.cpp][Part 1 and Part 2]]
 
