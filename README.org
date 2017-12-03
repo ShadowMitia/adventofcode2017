@@ -5,6 +5,16 @@
 
 My solutions for [[https://adventofcode.com/2017][Advent of Code 2017]].
 
+Written in C++ with C++11/14 features when useful.
+
+* Compile programs
+
+Usually you'll compile with:
+
+~g++ main.cpp -std=c++14 -g~
+
+TODO: Change to Makefiles or something
+
 * Completed days
 
 ** [[https://adventofcode.com/2017/day/1][Day 1]]
@@ -15,4 +25,8 @@ My solutions for [[https://adventofcode.com/2017][Advent of Code 2017]].
 
 [[file:day2/main.cpp][Part 1 and Part 2]]
 
+** [[https://adventofcode.com/2017/day/3][Day 3]]
 
+[[file:day3/main.cpp][Part 1]] (Part 2 not done)
+
+** Day 4
