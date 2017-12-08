@@ -37,3 +37,8 @@ TODO: Change to Makefiles or something
 ** [[https://adventofcode.com/2017/day/5][Day 5]]
 
 [[file:day5/main.cpp][Part 1 and Part 2]]
+** [[https://adventofcode.com/2017/day/6][Day 6]]
+
+[[file:day6/main.cpp][Day 1]]
+
+** 
